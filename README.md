@@ -7,6 +7,7 @@ Original paper [ANRL: Attributed Network Representation Learning via Deep Neural
 
 ## Usage
 `pip install -r requirements.txt`
+
 `python main.py`
 
 ## Attention
