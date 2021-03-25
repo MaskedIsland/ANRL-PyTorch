@@ -10,4 +10,4 @@ Original paper [ANRL: Attributed Network Representation Learning via Deep Neural
 
 ## Attention
 1. We did not use exactly the same model weight initialization method as in ANRL.
-2. The underlying implementation of PyTorch may result in different results from tensorflow under the same hyper-parameter settings。
+2. The underlying implementation of PyTorch may result in different results from tensorflow under the same hyper-parameter settings.
