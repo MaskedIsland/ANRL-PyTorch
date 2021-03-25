@@ -7,5 +7,5 @@ Thanks to [Stonesjtu/Pytorch-NCE](https://github.com/Stonesjtu/Pytorch-NCE), We 
 `python main.py`
 
 ## Attention
-1. We did not use exactly the same model weight initialization method as in ARNL.
+1. We did not use exactly the same model weight initialization method as in ANRL.
 2. The underlying implementation of PyTorch may result in different results from tensorflow under the same hyper-parameter settings。
