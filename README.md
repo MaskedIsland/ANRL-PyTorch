@@ -1,5 +1,5 @@
 # ANRL-PyTorch
-An implementation of ANRL based on PyTorch. Most code of ANRL model in this repository comes from [cszhangzhen/ANRL](https://github.com/cszhangzhen/ANRL).
+An implementation of ANRL based on PyTorch. Most code of data processing in this repository comes from [cszhangzhen/ANRL](https://github.com/cszhangzhen/ANRL).
 
 Thanks to [Stonesjtu/Pytorch-NCE](https://github.com/Stonesjtu/Pytorch-NCE), We can easily achieve our aim similar to `tf.nn.sampled_softmax_loss`.
 
