@@ -1,7 +1,7 @@
 # ANRL-PyTorch
 An implementation of ANRL based on PyTorch. Most code of ANRL model in this repository comes from [cszhangzhen/ANRL](https://github.com/cszhangzhen/ANRL).
 
-Thanks to [Stonesjtu/Pytorch-NCE](https://github.com/Stonesjtu/Pytorch-NCE), We can easily achieve a function similar to `tf.nn.sampled_softmax_loss`.
+Thanks to [Stonesjtu/Pytorch-NCE](https://github.com/Stonesjtu/Pytorch-NCE), We can easily achieve our aim similar to `tf.nn.sampled_softmax_loss`.
 
 Original paper [ANRL: Attributed Network Representation Learning via Deep Neural Networks](https://www.ijcai.org/Proceedings/2018/0438.pdf)
 
