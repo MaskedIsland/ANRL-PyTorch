@@ -1,0 +1,6 @@
+numpy==1.18.5
+torch==1.7.1
+tqdm==4.47.0
+networkx==2.4
+scikit_learn==0.24.1
+dill==0.3.3

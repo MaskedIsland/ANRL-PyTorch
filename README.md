@@ -6,6 +6,7 @@ Thanks to [Stonesjtu/Pytorch-NCE](https://github.com/Stonesjtu/Pytorch-NCE), We 
 Original paper [ANRL: Attributed Network Representation Learning via Deep Neural Networks](https://www.ijcai.org/Proceedings/2018/0438.pdf)
 
 ## Usage
+`pip install -r requirements.txt`
 `python main.py`
 
 ## Attention
