@@ -1,1 +1,2 @@
 *.py linguist-language=python
+*.feature linguist-language=txt
